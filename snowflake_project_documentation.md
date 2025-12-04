@@ -135,7 +135,7 @@ RECRUITMENT_DB (Database)
     ├── DIM_AIRLINE (Dimension Table)
     ├── DIM_AIRPORT (Dimension Table)
     ├── DIM_DATE (Dimension Table)
-    ├── VW_FLIGHTS (Analytical View)
+    └── VW_FLIGHTS (Analytical View)
 ```
 
 ### Data Flow
